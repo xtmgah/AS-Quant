@@ -1,8 +1,9 @@
 AS-Quant generates the expression level of alternative splicing among two different biological comditions.
 
 # Installation
-AS-Quant tool can be downloaded and installed from github. User need to have python installed in their machine. It can work Windows, Linux and Mac platform.
-User will need to run the ARC.py file in order to demostrate the AS events.
+AS-Quant tool can be downloaded directly from github. User need to have python installed in their machine. It can work on Windows, Linux and Mac platform.
+
+User will need to run the ARC.py file in order to demonstrate the AS events.
 
 $python3 ARC.py
 
