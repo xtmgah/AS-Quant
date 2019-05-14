@@ -12,7 +12,7 @@ To generate plots for specific exon, user need to run makePlots.py and provide i
 $python3 makePlots.py
 
 # User manual
-User manual for AS-Quant is available on github https://github.com/CompbioLabUCF/AS-Quant/User-manual.pdf
+User manual for AS-Quant is available on github https://github.com/compbiolabucf/AS-Quant/blob/master/User-manual.pdf
 
 # Sample data
 AS-Quant example data for human(human hg19) and mouse(mouse mm10) are included in the sample folder https://github.com/CompbioLabUCF/AS-Quant/sample-data/humanhg19 and https://github.com/CompbioLabUCF/AS-Quant/sample-data/mousemm10. To run from scratch, user can use the sample data for quantization of AS events in human and mouse.
