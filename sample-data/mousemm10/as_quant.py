@@ -19,19 +19,11 @@ target_filenames = ['SE', 'RI', 'MXE', 'A3SS', 'A5SS']
 samplenames = ['s1', 's2']
 
 current_path = '/home/fahmi/Desktop/AS-Quant/mousemm10/'	# the main directory
-input_path = current_path+'input/'			# input directory
-output_path = current_path+'output/'					# output directory
+input_path = current_path+'input/'				# input directory
+output_path = current_path+'output/'				# output directory
 
 os.makedirs(output_path, exist_ok=True)
 
-"""
-region = input("Enter the species(human/mouse) input1_directory input2_directory	example: (human s1 s2)	")
-species, input1, input2 = region.split(' ')
-if species =='human':
-	chromosomes = chromosomes_h
-elif species == 'mouse':
-	chromosomes = chromosomes_m
-"""
 if(len(sys.argv)<5):
 	print("Please provide all of the arguments. Example: python as_quant.py -s human s1 s2")
 	sys.exit()
