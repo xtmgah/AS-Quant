@@ -1,4 +1,4 @@
-AS-Quant generates the expression level of alternative splicing among two different biological comditions.
+AS-Quant generates the expression level of alternative splicing among two different biological conditions.
 
 # Installation
 AS-Quant tool can be downloaded directly from github. User need to have python installed in their machine. It can work on Windows, Linux and Mac platform.
