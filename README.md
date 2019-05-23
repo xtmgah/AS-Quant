@@ -22,5 +22,4 @@ Please use the following information to cite.
 
 # Contact the Author
 Naima Ahmed Fahmi: naimafahmi04@gmail.com
-Jeongsik Yong: 
 Wei Zhang: wzhang.cs@ucf.edu
