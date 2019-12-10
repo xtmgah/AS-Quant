@@ -21,5 +21,5 @@ AS-Quant example data for mouse(mouse mm10) is included in the folder https://gi
 Please use the following information to cite.
 
 # Contact the Author
-Naima Ahmed Fahmi: naimafahmi04@gmail.com
+Naima Ahmed Fahmi: fnaima@knights.ucf.edu
 Wei Zhang: wzhang.cs@ucf.edu
