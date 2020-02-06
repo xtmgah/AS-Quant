@@ -5,11 +5,11 @@ AS-Quant tool can be downloaded directly from github. User need to have python i
 
 User will need to run the as-quant.py file in order to demonstrate the AS events.
 
-$python3 as-quant.py
+$python3 as_quant.py
 
 To generate plots for specific exon, user need to run makePlots.py and provide input in a specific pattern: chromName:geneName:start-end
 
-$python3 make-plots.py
+$python3 make_plots.py
 
 # User manual
 User manual for AS-Quant is available on github https://github.com/compbiolabucf/AS-Quant/blob/master/AS-Quant%20User%20Manual.pdf
